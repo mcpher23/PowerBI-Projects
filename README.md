@@ -5,4 +5,4 @@ This repository contains projects and examples of PowerBI skills and techniques.
 
 * A Project using Example Sales Data For Analysis and Producing an Informative Business Dashboard.
 
-* A Project using Example Survery Data for Producing an Investigative Data Anlysis.
+* A Project using Example Survery Data for Producing an Investigative Data Analysis.
